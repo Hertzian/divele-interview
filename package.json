@@ -1,0 +1,16 @@
+{
+  "name": "vainillanode",
+  "version": "1.0.0",
+  "description": "Vainilla node server for DivElement technical interview",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
