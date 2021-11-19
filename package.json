@@ -8,8 +8,8 @@
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Eduardo Aguilar",
+  "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.15"
   }
